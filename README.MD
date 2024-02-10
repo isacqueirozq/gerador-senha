@@ -1,11 +1,7 @@
 <div align="center">
-  <!-- <a href="#">
-      <img src=".github/assets/badge.png" width="200" />
-  </a> -->
-
+  
   <!-- project name -->
   <h1 align="center">Gerador de Senha</h1>
-  
   
   <!-- project description and menu -->
   <p align="center">
@@ -37,21 +33,16 @@
   </a>
 </div>
 
-## 🔥 Features
+## Features
 - [x] Generate a random Strong Password;
 - [x] Copy Pass to Clipboard;
 
 ## Technologies
-
 This project was developed with the following technologies:
-
 -   [React Native](https://reactnative.dev/)
 -   [Expo](https://docs.expo.dev/)
 
-
-
 ## Building
-
 You'll need [Node.js](https://nodejs.org) installed on your computer in order to build this app.
 
 ```bash
@@ -62,7 +53,6 @@ $ npm run start
 ```
 
 ## Usage
-
 🔧 Run the script
 
 ```bash
